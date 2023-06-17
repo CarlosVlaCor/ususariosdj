@@ -93,6 +93,8 @@ class VerificationForm(forms.Form):
     codregistro = forms.CharField(required=True)
 
 
+
+
     def __init__(self, pk, *args, **kwargs):
         self.id_user = pk
         return super(VerificationForm, self).__init__(*args, **kwargs)
