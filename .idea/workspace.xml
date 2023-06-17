@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13dbc821-ed8d-4992-8550-fd55585a318f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ususariosdj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ususariosdj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios/usuarios/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios/usuarios/settings/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios/usuarios/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios/usuarios/settings/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarios/usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/usuarios/usuarios/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/cursos/django/proyEmpleado",
+    "last_opened_file_path": "C:/cursos/django/eventeam",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +85,11 @@
       <updated>1684572235954</updated>
       <workItem from="1684572237046" duration="4677000" />
       <workItem from="1684608266957" duration="45000" />
-      <workItem from="1684608333743" duration="11895000" />
+      <workItem from="1684608333743" duration="12487000" />
+      <workItem from="1684632166371" duration="99000" />
+      <workItem from="1684633730101" duration="825000" />
+      <workItem from="1684651309187" duration="634000" />
+      <workItem from="1684737834390" duration="365000" />
     </task>
     <servers />
   </component>
